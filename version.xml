@@ -7,9 +7,9 @@
             <description>-Sửa lỗi và cải thiện hiệu năng</description>
             <pubDate>Mon, 20 Jul 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.zeroboy.diccon_evo"
-                sparkle:version="8.2.12" sparkle:os="android" />
+                sparkle:version="8.2.15" sparkle:os="android" />
             <enclosure url="https://www.microsoft.com/store/productId/9NPF4HBMNG5D?ocid=pdpshare"
-                sparkle:version="8.2.12" sparkle:os="windows" />
+                sparkle:version="8.2.15" sparkle:os="windows" />
             <enclosure url="https://github.com/tranhuudang/diccon_dictionary/releases"
                 sparkle:version="8.2.12" sparkle:os="macos" />
         </item>
