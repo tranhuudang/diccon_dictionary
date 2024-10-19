@@ -41,7 +41,7 @@ Double-click the app. You may see a message like:
 - Go to **System Settings** (or **System Preferences** in older versions of macOS).
 - Navigate to **Privacy & Security** (or **Security & Privacy**).
 - 
-![Privacy & Security]([https://example.com/image.png](https://raw.githubusercontent.com/tranhuudang/diccon_dictionary/refs/heads/master/assets/%E2%80%AFPM.png))
+![Privacy & Security](https://example.com/image.png](https://raw.githubusercontent.com/tranhuudang/diccon_dictionary/refs/heads/master/assets/%E2%80%AFPM.png)
 
 ### 3. Unlock Settings (if needed)
 - Click the **padlock icon** in the bottom-left corner to enable changes.
