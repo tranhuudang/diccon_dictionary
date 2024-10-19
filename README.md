@@ -25,6 +25,37 @@ Get Diccon Dictionary on your preferred platform:
 | **Google Play**     | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zeroboy.diccon_evo) |
 | **macOS (.dmg)**    | [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/tranhuudang/diccon_dictionary/releases) |
 
+--- 
+
+### Notes
+
+## How to Run This App on macOS (Unidentified Developer)
+
+If you encounter an "Unidentified Developer" warning when trying to open this app on macOS, follow these steps to allow it to run:
+
+### 1. Try Opening the App
+Double-click the app. You may see a message like:
+> "App can't be opened because it is from an unidentified developer."
+
+### 2. Open System Settings (or System Preferences)
+- Go to **System Settings** (or **System Preferences** in older versions of macOS).
+- Navigate to **Privacy & Security** (or **Security & Privacy**).
+
+### 3. Unlock Settings (if needed)
+- Click the **padlock icon** in the bottom-left corner to enable changes.
+- Enter your **admin password** when prompted.
+
+### 4. Allow the App to Run
+- In the **Privacy & Security** section, you’ll see a message like:
+  > "App was blocked from use because it is not from an identified developer."
+- Click **"Open Anyway"** next to this message.
+
+### 5. Confirm to Open the App
+When prompted again, click **"Open"** to confirm. The app should now launch.
+
+---
+
+After following these steps, macOS will allow this app to open without any further prompts.
 
 ---
 
